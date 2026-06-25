@@ -1,2 +1,2 @@
-# ai-ml-learning
+# UAPMOL
 My first GitHub repository
